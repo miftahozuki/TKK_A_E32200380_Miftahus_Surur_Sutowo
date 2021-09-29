@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.10277777777777777" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/drawable-v24/lingkaran_alarm_3.xml" value="0.11018518518518519" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/drawable-v24/lingkaran_logout.xml" value="0.10989583333333333" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/drawable/ic_launcher_background.xml" value="0.10277777777777777" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/drawable/ic_logout.xml" value="0.11018518518518519" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/activity_logout.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/constraint_layout.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/frame_layout.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/linier_layout.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/logout.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/logout_activity.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/materialdesign.xml" value="0.1213768115942029" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/relative_layout.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/scrollview.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/layout/table_layout.xml" value="0.2" />
+        <entry key="..\:/Materi_Kuliah/Project/ProjectIntent/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10277777777777777" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/drawable-v24/lingkarang_flash_7.xml" value="0.2484375" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_airplane2.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_alarm3.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_alarm_3.xml" value="0.1" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_block4.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_block_4.xml" value="0.6670560747663551" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_bluetooth5.xml" value="0.22" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_bluetooth_5.xml" value="0.7014742014742015" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_camera6.xml" value="0.16" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_camera_6.xml" value="0.8299418604651163" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_flash_7.xml" value="0.6862980769230769" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_location8.xml" value="0.2" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_location_8.xml" value="0.7716216216216216" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_mode_pesawat_2.xml" value="0.592938733125649" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_rotation9.xml" value="0.25" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_screen_rotation_9.xml" value="0.5412322274881517" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_signal1.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/ngece/AndroidStudioProjects/ProjectIntent/app/src/main/res/layout/activity_signal_1.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
